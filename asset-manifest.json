@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/junior-einstein/static/css/main.82295d20.chunk.css",
-    "main.js": "/junior-einstein/static/js/main.03cd7484.chunk.js",
-    "main.js.map": "/junior-einstein/static/js/main.03cd7484.chunk.js.map",
+    "main.js": "/junior-einstein/static/js/main.dddacd20.chunk.js",
+    "main.js.map": "/junior-einstein/static/js/main.dddacd20.chunk.js.map",
     "runtime-main.js": "/junior-einstein/static/js/runtime-main.79fcc1cd.js",
     "runtime-main.js.map": "/junior-einstein/static/js/runtime-main.79fcc1cd.js.map",
     "static/js/2.332d85e6.chunk.js": "/junior-einstein/static/js/2.332d85e6.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.79fcc1cd.js",
     "static/js/2.332d85e6.chunk.js",
     "static/css/main.82295d20.chunk.css",
-    "static/js/main.03cd7484.chunk.js"
+    "static/js/main.dddacd20.chunk.js"
   ]
 }
