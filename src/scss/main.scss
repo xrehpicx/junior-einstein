@@ -1,0 +1,198 @@
+.app {
+    background-color: #0066ff;
+    padding-bottom: 60px;
+
+}
+
+.header {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    overflow-x: hidden;
+}
+
+.logos {
+
+    @media only screen and (max-width: 600px) {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+
+        .yesist,
+        .atrialogo {
+            margin: 20px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+        }
+    }
+}
+
+.main {
+
+
+    @media only screen and (max-width: 800px) {
+        padding: 40px;
+    }
+
+    @media only screen and (max-width: 600px) {
+        padding: 30px;
+        padding-bottom: 100px;
+        align-items: center;
+        text-align: center;
+    }
+
+    padding: 60px;
+    height: 100vh;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.atom-icon {
+    @media only screen and (max-width: 800px) {
+        display: none;
+    }
+
+    width: 500px;
+    margin-left: -50%;
+    // transform: translateX(50%);
+    object-fit: contain;
+}
+
+.register-button {
+    color: black;
+    font-weight: 600;
+    font-size: 1.5rem;
+    width: fit-content;
+    text-decoration: none;
+    margin-top: 10px;
+    padding: 20px 30px;
+    background: white;
+}
+
+.subtitle {
+    $fs: 1.6rem;
+    font-size: $fs;
+    // line-height: #{$fs * 1.6rem};
+    font-weight: 200;
+}
+
+.small-title {
+    $fs: 2.4rem;
+    font-size: $fs;
+    // line-height: #{$fs * 1.6rem};
+    font-weight: 600;
+}
+
+.caps-title {
+    $fontsize: 4rem;
+    font-size: $fontsize;
+
+    margin: 10px 0;
+
+    @media only screen and (max-width: 600px) {
+        margin: 20px 0;
+    }
+
+    // line-height: #{$fontsize * 1.6rem};
+}
+
+.intro {
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #00327c;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 60px;
+
+}
+
+.about {
+    @media only screen and (max-width: 800px) {
+        padding: 40px;
+    }
+
+    @media only screen and (max-width: 600px) {
+        padding: 30px;
+    }
+
+    padding: 60px;
+    color: white;
+
+
+    h2 {
+        margin-bottom: 10px;
+    }
+
+    p {
+        line-height: 1.6rem;
+        font-weight: 600;
+    }
+}
+
+.details {
+    @media only screen and (max-width: 800px) {
+        padding: 40px;
+    }
+
+    @media only screen and (max-width: 600px) {
+        padding: 30px;
+    }
+
+    padding: 60px;
+    color: white;
+
+    ul {
+        margin-top: 20px;
+    }
+
+    h2 {
+        margin-bottom: 10px;
+    }
+
+    li {
+        margin-left: 25px;
+        line-height: 1.6rem;
+        font-weight: 600;
+    }
+}
+
+.bottom-register {
+    position: fixed;
+
+    bottom: 30px;
+    left: 60px;
+    width: fit-content;
+
+    @media only screen and (max-width: 800px) {
+        bottom: 20px;
+        left: 40px;
+    }
+
+    @media only screen and (max-width: 600px) {
+        bottom: 0;
+        left: 0;
+    }
+
+    @media only screen and (max-width: 600px) {
+        width: 100%;
+    }
+
+    height: auto;
+
+    color: black;
+    font-weight: 600;
+    font-size: 1.5rem;
+    text-decoration: none;
+    text-align: center;
+    padding:20px 30px;
+
+    background: white;
+}
