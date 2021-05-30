@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/junior-einstein/static/css/main.82295d20.chunk.css",
-    "main.js": "/junior-einstein/static/js/main.df1af446.chunk.js",
-    "main.js.map": "/junior-einstein/static/js/main.df1af446.chunk.js.map",
-    "runtime-main.js": "/junior-einstein/static/js/runtime-main.e61d855e.js",
-    "runtime-main.js.map": "/junior-einstein/static/js/runtime-main.e61d855e.js.map",
-    "static/js/2.6856fae3.chunk.js": "/junior-einstein/static/js/2.6856fae3.chunk.js",
-    "static/js/2.6856fae3.chunk.js.map": "/junior-einstein/static/js/2.6856fae3.chunk.js.map",
-    "static/js/3.55a8f7db.chunk.js": "/junior-einstein/static/js/3.55a8f7db.chunk.js",
-    "static/js/3.55a8f7db.chunk.js.map": "/junior-einstein/static/js/3.55a8f7db.chunk.js.map",
+    "main.css": "/junior-einstein/static/css/main.2818f6e2.chunk.css",
+    "main.js": "/junior-einstein/static/js/main.24f4d211.chunk.js",
+    "main.js.map": "/junior-einstein/static/js/main.24f4d211.chunk.js.map",
+    "runtime-main.js": "/junior-einstein/static/js/runtime-main.367dace7.js",
+    "runtime-main.js.map": "/junior-einstein/static/js/runtime-main.367dace7.js.map",
+    "static/js/2.04a33b7f.chunk.js": "/junior-einstein/static/js/2.04a33b7f.chunk.js",
+    "static/js/2.04a33b7f.chunk.js.map": "/junior-einstein/static/js/2.04a33b7f.chunk.js.map",
+    "static/js/3.0fe6cd2c.chunk.js": "/junior-einstein/static/js/3.0fe6cd2c.chunk.js",
+    "static/js/3.0fe6cd2c.chunk.js.map": "/junior-einstein/static/js/3.0fe6cd2c.chunk.js.map",
     "index.html": "/junior-einstein/index.html",
     "service-worker.js": "/junior-einstein/service-worker.js",
     "service-worker.js.map": "/junior-einstein/service-worker.js.map",
-    "static/css/main.82295d20.chunk.css.map": "/junior-einstein/static/css/main.82295d20.chunk.css.map",
-    "static/js/2.6856fae3.chunk.js.LICENSE.txt": "/junior-einstein/static/js/2.6856fae3.chunk.js.LICENSE.txt",
+    "static/css/main.2818f6e2.chunk.css.map": "/junior-einstein/static/css/main.2818f6e2.chunk.css.map",
+    "static/js/2.04a33b7f.chunk.js.LICENSE.txt": "/junior-einstein/static/js/2.04a33b7f.chunk.js.LICENSE.txt",
     "static/media/atom.c728831b.svg": "/junior-einstein/static/media/atom.c728831b.svg",
     "static/media/atria_logo.20e58d5b.png": "/junior-einstein/static/media/atria_logo.20e58d5b.png",
     "static/media/yesist.3057c074.png": "/junior-einstein/static/media/yesist.3057c074.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e61d855e.js",
-    "static/js/2.6856fae3.chunk.js",
-    "static/css/main.82295d20.chunk.css",
-    "static/js/main.df1af446.chunk.js"
+    "static/js/runtime-main.367dace7.js",
+    "static/js/2.04a33b7f.chunk.js",
+    "static/css/main.2818f6e2.chunk.css",
+    "static/js/main.24f4d211.chunk.js"
   ]
 }
