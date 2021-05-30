@@ -38,7 +38,7 @@ function App() {
             // }
             href="https://docs.google.com/forms/d/e/1FAIpQLScjSkBUJVz9y4iigQrFQIzHwdtz6fhEU-UTI9pexsBtcmREwg/viewform?usp=sf_link"
           >
-            Register Now Register Now
+            Register Now
           </motion.a>
         </AnimatePresence>
       ) : (
@@ -239,8 +239,43 @@ function App() {
             <li>“Certificate of Appreciation” will be given to the Mentors.</li>
           </ul>
         </div>
+
+        <div className="team"></div>
       </div>
     </>
+  );
+}
+
+function MemberGrid({ members }: { members: any }) {
+  return (
+    <div className="members">
+      {members.map((member: any, i: number) => (
+        <Member key={i} {...member} />
+      ))}
+    </div>
+  );
+}
+function Member({
+  name,
+
+  profile_img,
+  role,
+}: {
+  name: string;
+
+  profile_img: string;
+  role: string;
+}) {
+  return (
+    <div className="member">
+      <div className="profile-img">
+        <img src={profile_img} alt="raj" />
+      </div>
+      <div className="about">
+        <h3>{name}</h3>
+        <p>{role === "admin" ? "core" : role}</p>
+      </div>
+    </div>
   );
 }
 

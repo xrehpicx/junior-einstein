@@ -1,5 +1,6 @@
 .app {
-  background-color: #0066ff;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#3048B0), to(#1C3670));
+  background-image: linear-gradient(180deg, #3048B0 0%, #1C3670 100%);
   padding-bottom: 60px;
 }
 
@@ -121,7 +122,8 @@
   position: absolute;
   top: 0;
   left: 0;
-  background-color: #00327c;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#2A3E94), to(#234387));
+  background-image: linear-gradient(180deg, #2A3E94 0%, #234387 100%);
   color: white;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -158,6 +160,8 @@
 
 .about h2 {
   margin-bottom: 10px;
+  font-size: 1.5rem;
+  color: #fcff59;
 }
 
 .about p {
@@ -187,7 +191,9 @@
 }
 
 .details h2 {
+  color: #fcff59;
   margin-bottom: 10px;
+  font-size: 1.5rem;
 }
 
 .details li {
@@ -231,5 +237,83 @@
   .bottom-register {
     width: 100%;
   }
+}
+
+.team {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(200px, auto))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+  grid-gap: 30px;
+  padding: 30px;
+}
+
+.team .member {
+  width: 100%;
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 40px;
+  background: whitesmoke;
+  -webkit-transition: padding 200ms ease;
+  transition: padding 200ms ease;
+}
+
+.team .member .about {
+  text-align: center;
+}
+
+.team .member .contact a {
+  color: black;
+  text-decoration: underline;
+  display: block;
+  text-align: center;
+}
+
+.team .member:active .profile-img {
+  width: 150px;
+  height: 200px;
+  border-radius: 0;
+  margin-bottom: 10px;
+}
+
+.team .member:active .profile-img img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.team .about h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.team .profile-img {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  -webkit-transition: all 300ms ease;
+  transition: all 300ms ease;
+}
+
+.team .profile-img img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 /*# sourceMappingURL=main.css.map */
