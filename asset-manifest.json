@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/junior-einstein/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/junior-einstein/static/js/main.6a0c68f1.chunk.js",
+    "main.js.map": "/junior-einstein/static/js/main.6a0c68f1.chunk.js.map",
+    "runtime-main.js": "/junior-einstein/static/js/runtime-main.89fb0117.js",
+    "runtime-main.js.map": "/junior-einstein/static/js/runtime-main.89fb0117.js.map",
+    "static/js/2.6c0364e0.chunk.js": "/junior-einstein/static/js/2.6c0364e0.chunk.js",
+    "static/js/2.6c0364e0.chunk.js.map": "/junior-einstein/static/js/2.6c0364e0.chunk.js.map",
+    "static/js/3.baf63d7c.chunk.js": "/junior-einstein/static/js/3.baf63d7c.chunk.js",
+    "static/js/3.baf63d7c.chunk.js.map": "/junior-einstein/static/js/3.baf63d7c.chunk.js.map",
+    "index.html": "/junior-einstein/index.html",
+    "service-worker.js": "/junior-einstein/service-worker.js",
+    "service-worker.js.map": "/junior-einstein/service-worker.js.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/junior-einstein/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6c0364e0.chunk.js.LICENSE.txt": "/junior-einstein/static/js/2.6c0364e0.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/junior-einstein/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89fb0117.js",
+    "static/js/2.6c0364e0.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.6a0c68f1.chunk.js"
+  ]
+}
