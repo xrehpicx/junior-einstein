@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/junior-einstein/static/css/main.d70c70a5.chunk.css",
-    "main.js": "/junior-einstein/static/js/main.d26a1d7f.chunk.js",
-    "main.js.map": "/junior-einstein/static/js/main.d26a1d7f.chunk.js.map",
+    "main.css": "/junior-einstein/static/css/main.e683ca91.chunk.css",
+    "main.js": "/junior-einstein/static/js/main.d87f011a.chunk.js",
+    "main.js.map": "/junior-einstein/static/js/main.d87f011a.chunk.js.map",
     "runtime-main.js": "/junior-einstein/static/js/runtime-main.ba23dbdf.js",
     "runtime-main.js.map": "/junior-einstein/static/js/runtime-main.ba23dbdf.js.map",
-    "static/js/2.a039907f.chunk.js": "/junior-einstein/static/js/2.a039907f.chunk.js",
-    "static/js/2.a039907f.chunk.js.map": "/junior-einstein/static/js/2.a039907f.chunk.js.map",
+    "static/js/2.945e9553.chunk.js": "/junior-einstein/static/js/2.945e9553.chunk.js",
+    "static/js/2.945e9553.chunk.js.map": "/junior-einstein/static/js/2.945e9553.chunk.js.map",
     "static/js/3.88c42e51.chunk.js": "/junior-einstein/static/js/3.88c42e51.chunk.js",
     "static/js/3.88c42e51.chunk.js.map": "/junior-einstein/static/js/3.88c42e51.chunk.js.map",
     "index.html": "/junior-einstein/index.html",
     "service-worker.js": "/junior-einstein/service-worker.js",
     "service-worker.js.map": "/junior-einstein/service-worker.js.map",
-    "static/css/main.d70c70a5.chunk.css.map": "/junior-einstein/static/css/main.d70c70a5.chunk.css.map",
-    "static/js/2.a039907f.chunk.js.LICENSE.txt": "/junior-einstein/static/js/2.a039907f.chunk.js.LICENSE.txt",
+    "static/css/main.e683ca91.chunk.css.map": "/junior-einstein/static/css/main.e683ca91.chunk.css.map",
+    "static/js/2.945e9553.chunk.js.LICENSE.txt": "/junior-einstein/static/js/2.945e9553.chunk.js.LICENSE.txt",
     "static/media/atom.c728831b.svg": "/junior-einstein/static/media/atom.c728831b.svg",
     "static/media/atria_logo.20e58d5b.png": "/junior-einstein/static/media/atria_logo.20e58d5b.png",
     "static/media/dab.9c478cc6.png": "/junior-einstein/static/media/dab.9c478cc6.png",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ba23dbdf.js",
-    "static/js/2.a039907f.chunk.js",
-    "static/css/main.d70c70a5.chunk.css",
-    "static/js/main.d26a1d7f.chunk.js"
+    "static/js/2.945e9553.chunk.js",
+    "static/css/main.e683ca91.chunk.css",
+    "static/js/main.d87f011a.chunk.js"
   ]
 }
