@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/junior-einstein/static/css/main.5b18116b.chunk.css",
+    "main.css": "/junior-einstein/static/css/main.b568dcd2.chunk.css",
     "main.js": "/junior-einstein/static/js/main.1b0c587e.chunk.js",
     "main.js.map": "/junior-einstein/static/js/main.1b0c587e.chunk.js.map",
     "runtime-main.js": "/junior-einstein/static/js/runtime-main.ff430cca.js",
@@ -12,7 +12,7 @@
     "index.html": "/junior-einstein/index.html",
     "service-worker.js": "/junior-einstein/service-worker.js",
     "service-worker.js.map": "/junior-einstein/service-worker.js.map",
-    "static/css/main.5b18116b.chunk.css.map": "/junior-einstein/static/css/main.5b18116b.chunk.css.map",
+    "static/css/main.b568dcd2.chunk.css.map": "/junior-einstein/static/css/main.b568dcd2.chunk.css.map",
     "static/js/2.f40caed8.chunk.js.LICENSE.txt": "/junior-einstein/static/js/2.f40caed8.chunk.js.LICENSE.txt",
     "static/media/atom.c728831b.svg": "/junior-einstein/static/media/atom.c728831b.svg",
     "static/media/atria_logo.20e58d5b.png": "/junior-einstein/static/media/atria_logo.20e58d5b.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.ff430cca.js",
     "static/js/2.f40caed8.chunk.js",
-    "static/css/main.5b18116b.chunk.css",
+    "static/css/main.b568dcd2.chunk.css",
     "static/js/main.1b0c587e.chunk.js"
   ]
 }
